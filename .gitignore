@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Build folders
+bin/
+obj/
+
+# Backup files
+*.bak
+*.tmp
+
+# Packages
+packages/
+*.nupkg
+
+# Publish outputs
+publish/
